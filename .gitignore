@@ -28,3 +28,4 @@ local.docker-compose.yml
 
 # IDEs
 .idea/
+bin/
